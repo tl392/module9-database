@@ -214,7 +214,7 @@ docker run -it --rm <image-name>
 
 ---
 
-# 📝 7. Submission Instructions
+# 📝 7. Commit and Push Instructions
 
 After finishing your work:
 
